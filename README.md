@@ -43,7 +43,8 @@ html        0 secs            ░░░░░░░░░░░░░░░░�
 <!--   END -->
 
 Enter password To know more about me
-viewof x = Inputs.range([0, 100])
+      ```<label for="pwd">Password:</label>
+<input type="password" id="pwd" name="pwd">```
 
 
 📈 my github stats
