@@ -40,11 +40,8 @@ html        0 secs            ░░░░░░░░░░░░░░░░�
 🌸  Bored            
 ✅  Already broken completely           
 ⏳  play boii 
-<!--   END -->
 
-Enter password To know more about me
-      ```<label for="pwd">Password:</label>
-<input type="password" id="pwd" name="pwd">```
+<!--   END -->
 
 
 📈 my github stats
